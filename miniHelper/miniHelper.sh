@@ -1,6 +1,5 @@
 #! /bin/bash
 
-ø
 changeTimeZone() {
 echo "Enter time zone"
 read timeZone
